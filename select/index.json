@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼくらのfrai awei",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-29T01:50:26.380242Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくらのfrai awei",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくらのfrai_awei_BaseBallBear.txt"
+    }
+  ]
+}
